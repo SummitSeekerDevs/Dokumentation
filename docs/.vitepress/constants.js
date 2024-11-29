@@ -1,3 +1,3 @@
 // Paths
-const PATH_UNITY = '/unity/';
-const BASE_PATH = '/Dokumentation/'
+export const BASE_PATH = '/Dokumentation/'
+export const PATH_UNITY = '/unity/';
