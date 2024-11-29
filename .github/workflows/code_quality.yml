@@ -22,4 +22,4 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v18.0.0
         with:
          config: '.markdownlint.json'
-        globs: '**/*.md'  # prüft nur Markdown Files
+         globs: '**/*.md'  # prüft nur Markdown Files
