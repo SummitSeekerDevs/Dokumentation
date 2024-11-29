@@ -1,3 +1,5 @@
+import { BASE_PATH, PATH_UNITY } from "./constants"
+
 export default {
     // site-level options
     title: 'SummitSeeker Doku',
