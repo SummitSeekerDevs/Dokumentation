@@ -19,7 +19,7 @@ die Tests im Play-Mode im Editor ausgeführt, aber sie können auch in
 einem eigenständigen Player-Build für verschiedene Zielplattformen
 ausführen werden.
 
-Wie diese Test eingebaut werden sollen, kann aus dem [Handbuch][Handbuch-Link]
+Wie diese Tests eingebaut werden sollen, kann aus dem [Handbuch][Handbuch-Link]
 oder aus einem [Tutorial][Tutorial-Link] entnommen werden.
 
 [Handbuch-Link]: https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/manual.html
