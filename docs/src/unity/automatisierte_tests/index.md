@@ -22,5 +22,5 @@ ausführen werden.
 Wie diese Test eingebaut werden sollen, kann aus dem [Handbuch][Handbuch-Link]
 oder aus einem [Tutorial][Tutorial-Link] entnommen werden.
 
-[Handbuch-Label]: https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/manual.html
+[Handbuch-Link]: https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/manual.html
 [Tutorial-Link]: https://unity.com/de/how-to/automated-tests-unity-test-framework
