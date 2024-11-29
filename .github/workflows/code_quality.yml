@@ -1,0 +1,25 @@
+name: Code Quality
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-linters:
+    name: Run Linters
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4
+
+      # Markdown Linter
+      - name: markdownlint-cli2-action
+        uses: DavidAnson/markdownlint-cli2-action@v18.0.0
+        with:
+         config: '.markdownlint.json'
+         globs: '**/*.md'  # prüft nur Markdown Files
