@@ -1,0 +1,6 @@
+# Vitepress Related Files
+/.idea
+/node_modules
+/docs/node_modules
+/docs/.vitepress/cache/
+/docs/.vitepress/dist/
