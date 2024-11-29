@@ -1,13 +1,10 @@
-const PATH_UNITY = '/unity/';
-
 export default {
     // site-level options
     title: 'SummitSeeker Doku',
     description: 'All you need to know.',
     lang: "de-DE",
-    //logo: '/public/favicon.ico',
-    //head: [['link', { rel: 'icon', href: '/src/public/favicon.ico' }]],
-    base: '/SummitSeeker/docs/',
+    head: [['link', { rel: 'icon', href: BASE_PATH + 'favicon.ico' }]], // favicon logo
+    base: BASE_PATH,
     srcDir: 'src', //markdown files are located in that directory
 
     themeConfig: {
