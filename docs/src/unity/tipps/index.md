@@ -11,6 +11,6 @@ Temperatur führt).
 
 ## Hinzufügen von Test Skripten
 
-Beim hinzufügen von Tests Project-View über den Button … auf “Two Column Layout”
-ändern, ansonsten wird der aktive Pfad auf das Test-Directory nicht erkannt und
+Beim Hinzufügen von Tests die Project-View über den Layout-Button auf „Two Column Layout"
+ändern. Andernfalls wird der aktive Pfad zum Test-Verzeichnis nicht erkannt und
 es können keine Test-Skripte hinzugefügt werden.
