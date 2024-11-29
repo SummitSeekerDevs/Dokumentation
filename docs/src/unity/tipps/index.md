@@ -2,10 +2,10 @@
 
 ## VSync
 
-Im Unity Editor in der Game-View das 3. Dropdown Menu ausklappen (Resolution-
-Dropdown) und Option VSync (Game view only) setzen. (Wenn nicht gesetzt versucht
+Im Unity Editor in der Game-View das 3. Dropdown-Menü ausklappen (Resolution-
+Dropdown) und die Option VSync (Game view only) setzen. Wenn nicht gesetzt, versucht
 der Computer die maximale Framerate herauszuholen, was zu erhöhter Last und
-Temperatur führt
+Temperatur führt).
 
 ![Screenshot der Einstellung](/unity/vsync-setting.png)
 
