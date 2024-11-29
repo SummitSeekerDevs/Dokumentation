@@ -17,7 +17,7 @@ Attributs `UnityTest` ausgeführt. So kann der Code getestet werden, der
 über mehrere Frames hinweg ausgeführt werden kann. Standardmäßig werden
 die Tests im Play-Mode im Editor ausgeführt, aber sie können auch in
 einem eigenständigen Player-Build für verschiedene Zielplattformen
-ausführen werden.
+ausgeführt werden.
 
 Wie diese Tests eingebaut werden sollen, kann aus dem [Handbuch][Handbuch-Link]
 oder aus einem [Tutorial][Tutorial-Link] entnommen werden.
