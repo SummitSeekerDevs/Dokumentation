@@ -31,15 +31,15 @@ jobs:
       run:
         working-directory: ./docs
     steps:
-      - name: Checkout Project
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
+          cache-dependency-path: docs/package-lock.json
           node-version: 20
           cache: npm
-          cache-dependency-path: docs/package-lock.json
 
       - name: Install dependencies
         run: npm ci
