@@ -1,12 +1,12 @@
-import { BASE_PATH, PATH_UNITY } from "./constants"
+import { PATH_UNITY } from "./constants"
 
 export default {
     // site-level options
     title: 'SummitSeeker Doku',
     description: 'All you need to know.',
     lang: "de-DE",
-    head: [['link', { rel: 'icon', href: BASE_PATH + 'favicon.ico' }]], // favicon logo
-    base: BASE_PATH,
+    head: [['link', { rel: 'icon', href: 'favicon.ico' }]], // favicon logo
+    //base: BASE_PATH,
     srcDir: 'src', //markdown files are located in that directory
 
     themeConfig: {
