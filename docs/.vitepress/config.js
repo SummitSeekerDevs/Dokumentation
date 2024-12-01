@@ -1,4 +1,4 @@
-import { PATH_UNITY } from "./constants"
+import { BASE_PATH, PATH_UNITY } from "./constants"
 
 export default {
     // site-level options
@@ -6,7 +6,7 @@ export default {
     description: 'All you need to know.',
     lang: "de-DE",
     head: [['link', { rel: 'icon', href: 'favicon.ico' }]], // favicon logo
-    //base: BASE_PATH,
+    base: BASE_PATH,
     srcDir: 'src', //markdown files are located in that directory
 
     themeConfig: {
