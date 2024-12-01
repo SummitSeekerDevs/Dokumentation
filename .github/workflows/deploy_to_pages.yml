@@ -1,4 +1,4 @@
-name: Deploy Docu to Pages
+name: Deploy VitePress site to Pages
 
 on:
   # Runs on pushes targeting the `main` branch.
