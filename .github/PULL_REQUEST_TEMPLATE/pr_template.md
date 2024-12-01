@@ -9,7 +9,7 @@
 - [ ] major changes have been added on the homepage as new features
 - [ ] examples and screenshots have been added
 
-## Issue Reference 
+## Issue Reference
 <!-- if there is a corresponding issue -->
 Closes Issue #
 
