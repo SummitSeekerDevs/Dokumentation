@@ -14,4 +14,6 @@
 Closes Issue #
 
 <!-- if there is no corresponding issue -->
-Related to [pr title](pr link from development repo)
+Related to [this pull request][pr link]
+
+[pr link]: <!-- add pr link from development repo here -->
