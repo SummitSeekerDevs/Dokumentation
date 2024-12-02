@@ -1,4 +1,4 @@
-import { BASE_PATH, PATH_UNITY } from "./constants"
+import {BASE_PATH, PATH_GETTING_STARTED, PATH_UNITY} from "./constants"
 
 export default {
     // site-level options
@@ -25,6 +25,10 @@ export default {
             [PATH_UNITY]: [
                 {text: 'Tipps & Tricks', link: `${PATH_UNITY}tipps/`},
                 {text: 'Automatisierte Tests', link: `${PATH_UNITY}automatisierte_tests/`},
+            ],
+            [PATH_GETTING_STARTED]: [
+                {text: 'Ich bin Spieler', link: `${PATH_GETTING_STARTED}player/`},
+                {text: 'Ich bin Entwickler', link: `${PATH_GETTING_STARTED}developer/`},
             ]
         },
 
