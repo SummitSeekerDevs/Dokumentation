@@ -1,10 +1,12 @@
-# Changelog History 
+# Changelog History
 
-![wrench](/homepage/wrench.png) 
+![wrench](/homepage/wrench.png)
 
 to be done...
 
-___ 
+---
+
+## 2024
 
 ### Beispiel: Projekterstellung <Badge type="info" text="December 24" />
 
