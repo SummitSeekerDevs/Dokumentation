@@ -1,4 +1,4 @@
-# FAQ
+# Blender Docu
 
 ![wrench](/wrench.png)
 

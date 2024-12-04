@@ -1,4 +1,13 @@
-import {BASE_PATH, PATH_GETTING_STARTED, PATH_UNITY} from "./constants"
+import {
+    BASE_PATH,
+    PATH_UNITY,
+    PATH_DEVELOPERS,
+    PATH_PLAYERS,
+    PATH_GETTING_STARTED_DEVELOPER,
+    PATH_GETTING_STARTED_PLAYER,
+    PATH_GAME_RULES,
+    PATH_BLENDER,
+    PATH_IDE} from "./constants"
 
 export default {
     // site-level options
@@ -12,29 +21,40 @@ export default {
     themeConfig: {
         // Navigation Bar
         nav: [
-            {text: 'About', link: '/about/'},
-            {text: 'Unity', link: `${PATH_UNITY}tipps/`}
+            {text: 'Developers', link: `${PATH_GETTING_STARTED_DEVELOPER}`},
+            {text: 'Players', link: `${PATH_GETTING_STARTED_PLAYER}`}
         ],
-
-        outline: {
-            label: "Auf dieser Seite"
-        },
 
         // Sidebar
         sidebar: {
-            [PATH_UNITY]: [
-                {text: 'Tipps & Tricks', link: `${PATH_UNITY}tipps/`},
-                {text: 'Automatisierte Tests', link: `${PATH_UNITY}automatisierte_tests/`},
+            [PATH_DEVELOPERS]: [
+                {text: 'Getting Started', link: `${PATH_GETTING_STARTED_DEVELOPER}`},
+                {text: 'Blender', link: `${PATH_BLENDER}/tipps`, collapsed:true,
+                    items: [
+                        {text: 'Tipps & Tricks', link: `${PATH_BLENDER}tipps/`},
+                    ]
+                },
+                {text: 'IDE', link: `${PATH_IDE}/tipps`, collapsed:true,
+                    items: [
+                        {text: 'Tipps & Tricks', link: `${PATH_IDE}tipps/`},
+                    ]
+                },
+                {text: 'Unity', link: `${PATH_UNITY}tipps/`, collapsed:true,
+                    items: [
+                        {text: 'Tipps & Tricks', link: `${PATH_UNITY}tipps/`},
+                        {text: 'Automatisierte Tests', link: `${PATH_UNITY}automatisierte_tests/`},
+                    ]
+                }
             ],
-            [PATH_GETTING_STARTED]: [
-                {text: 'Ich bin Spieler', link: `${PATH_GETTING_STARTED}player/`},
-                {text: 'Ich bin Entwickler', link: `${PATH_GETTING_STARTED}developer/`},
-            ]
+            [PATH_PLAYERS]: [
+                {text: 'Getting Started', link: `${PATH_GETTING_STARTED_PLAYER}`},
+                {text: 'Game Rules', link: `${PATH_GAME_RULES}`},
+            ],
         },
 
         // Socials
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/SummitSeekerDevs/SummitSeeker/'}
+            {icon: 'github', link: 'https://github.com/orgs/SummitSeekerDevs/repositories'}
         ],
 
         // Search

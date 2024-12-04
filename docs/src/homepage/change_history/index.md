@@ -1,6 +1,6 @@
 # Changelog History
 
-![wrench](/homepage/wrench.png)
+![wrench](/wrench.png)
 
 to be done...
 

@@ -1,4 +1,4 @@
-# FAQ
+# Game Rules
 
 ![wrench](/wrench.png)
 

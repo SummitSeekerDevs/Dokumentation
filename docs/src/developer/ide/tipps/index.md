@@ -1,4 +1,4 @@
-# FAQ
+# IDE Docu
 
 ![wrench](/wrench.png)
 

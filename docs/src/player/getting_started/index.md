@@ -1,6 +1,6 @@
 # Getting Started für Spieler
 
-![wrench](/homepage/wrench.png)
+![wrench](/wrench.png)
 
 to be done...
 
