@@ -7,7 +7,7 @@ Dropdown) und die Option VSync (Game view only) setzen. Wenn nicht gesetzt, vers
 der Computer die maximale Framerate herauszuholen, was zu erhöhter Last und
 Temperatur führt).
 
-![Screenshot der Einstellung](/unity/vsync-setting.png)
+![Screenshot der Einstellung](/developer/unity/vsync-setting.png)
 
 ## Hinzufügen von Test Skripten
 
