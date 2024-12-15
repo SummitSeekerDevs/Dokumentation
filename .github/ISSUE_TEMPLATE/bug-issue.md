@@ -1,6 +1,6 @@
 ---
 name: bug issue
-title: ':bug:'
+title: ':bug: << short title >>'
 labels: bug
 assignees: ''
 ---
