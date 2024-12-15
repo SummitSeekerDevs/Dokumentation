@@ -21,4 +21,4 @@ assignees: ''
 <!-- any additional context, notes or hints about the problem -->
 
 ### Suggested Solution
-<!-- please add the steps to reproduce the bug -->
+<!-- if applicable, describe potential solutions or workarounds for the bug -->
