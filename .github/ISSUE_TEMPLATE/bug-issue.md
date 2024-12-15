@@ -2,7 +2,6 @@
 name: bug issue
 title: ':bug: << short title >>'
 labels: bug
-assignees: ''
 ---
 
 ### Description
