@@ -1,6 +1,7 @@
 name: Build with VitePress
 
 on:
+  workflow_dispatch:
   pull_request:
     branches:
       - main
