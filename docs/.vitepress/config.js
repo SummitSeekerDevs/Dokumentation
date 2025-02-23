@@ -29,19 +29,10 @@ export default {
         sidebar: {
             [PATH_DEVELOPERS]: [
                 {text: 'Getting Started', link: `${PATH_GETTING_STARTED_DEVELOPER}`},
-                {text: 'Blender', link: `${PATH_BLENDER}/tipps`, collapsed:true,
-                    items: [
-                        {text: 'Tipps & Tricks', link: `${PATH_BLENDER}tipps/`},
-                    ]
-                },
-                {text: 'IDE', link: `${PATH_IDE}/tipps`, collapsed:true,
-                    items: [
-                        {text: 'Tipps & Tricks', link: `${PATH_IDE}tipps/`},
-                    ]
-                },
+                {text: 'Blender', link: `${PATH_BLENDER}tipps/`},
+                {text: 'IDE', link: `${PATH_IDE}tipps/`},
                 {text: 'Unity', link: `${PATH_UNITY}tipps/`, collapsed:true,
                     items: [
-                        {text: 'Tipps & Tricks', link: `${PATH_UNITY}tipps/`},
                         {text: 'Automatisierte Tests', link: `${PATH_UNITY}automatisierte_tests/`},
                     ]
                 }
