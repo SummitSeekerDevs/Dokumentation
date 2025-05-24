@@ -13,3 +13,9 @@ Todos:
 - Set up Blender
 - Set up Gimp
 - Set up Project
+
+
+# Workflows
+## Tipps
+- PackageMode rausnehmen, damit ganzes Projekt getestet wird
+- AssemblyFilters entfernen, damit codeCoverage Artifakt erzeugt werden kann
