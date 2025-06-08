@@ -1,7 +1,10 @@
 ---
 name: bug issue
-title: ':bug: << short title >>'
+about: track and resolve bugs
+title: ":bug: << short title >>"
 labels: bug
+assignees: vivianejohns
+
 ---
 
 ### Description
