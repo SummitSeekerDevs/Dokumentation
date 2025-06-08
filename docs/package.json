@@ -2,7 +2,9 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "lint": "markdownlint-cli2 --config ../.markdownlint.json \"./src/**/*.md\"",
+    "fix": "markdownlint-cli2 --config ../.markdownlint.json --fix \"./src/**/*.md\""
   },
   "dependencies": {
     "@mdi/js": "7.2.96"
