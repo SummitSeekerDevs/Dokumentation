@@ -4,7 +4,7 @@
 
 ### ProjektSetup
 
-- clone das [SummitSeeker-Repository](https://github.com/SummitSeekerDevs/SummitSeeker/tree/main) in ein beliebiges 
+- clone das [SummitSeeker-Repository](https://github.com/SummitSeekerDevs/SummitSeeker/tree/main) in ein beliebiges
   Verzeichnis auf deinem PC
 
 ## VSCode
