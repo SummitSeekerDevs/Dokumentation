@@ -3,7 +3,8 @@ name: bug issue
 about: track and resolve bugs
 title: ":bug: << short title >>"
 labels: bug
-assignee: ''
+assignees: ''
+
 ---
 
 ### Description
