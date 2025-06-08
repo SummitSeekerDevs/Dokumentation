@@ -38,10 +38,10 @@ Die anderen Einstellungen sollten für das Projekt zusätzlich vorgenommen werde
 
 ### Installation
 
-- [Downloade](https://unity.com/de/download) den Unity Hub für dein Betriebssystem mit mindestens der Version `3.10.
-0` oder höher
+- [Download](https://unity.com/de/download) den Unity Hub für dein Betriebssystem mit mindestens der Version
+`3.10.0` oder höher
 - Downloade im Unity Hub unter "Installs" Unity mit mindestens der Version `Unity6 (6000.0.43f1)` oder höher.
-  Markiere dabei die Moduloptionen `Windows Build Support (IL2CPP)` und `Documentation`
+Markiere dabei die Moduloptionen `Windows Build Support (IL2CPP)` und `Documentation`
 
 ### Projekt-Setup
 
