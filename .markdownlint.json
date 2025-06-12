@@ -29,7 +29,7 @@
     "style": "---"
   },
   "line-length": {
-    "line_length": 150,
+    "line_length": 130,
     "strict": true,
     "code_blocks": false
   },
