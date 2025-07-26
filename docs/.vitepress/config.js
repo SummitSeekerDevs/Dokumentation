@@ -7,7 +7,8 @@ import {
     PATH_GETTING_STARTED_PLAYER,
     PATH_GAME_RULES,
     PATH_BLENDER,
-    PATH_IDE} from "./constants"
+    PATH_IDE, PATH_ABOUT
+} from "./constants"
 
 export default {
     // site-level options
@@ -21,6 +22,7 @@ export default {
     themeConfig: {
         // Navigation Bar
         nav: [
+            {text: 'About', link: `${PATH_ABOUT}`},
             {text: 'Developers', link: `${PATH_GETTING_STARTED_DEVELOPER}`},
             {text: 'Players', link: `${PATH_GETTING_STARTED_PLAYER}`}
         ],

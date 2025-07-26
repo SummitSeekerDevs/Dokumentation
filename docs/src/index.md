@@ -11,7 +11,10 @@ hero:
       link: /homepage/faq
     - theme: alt
       text: View on GitHub
-      link: https://github.com/orgs/SummitSeekerDevs/repositories
+      link: https://github.com/orgs/SummitSeekerDevs/repositories    
+    - theme: alt
+      text: GDD
+      link: /about/
 
 features:
   - title: Getting Started as a Player
@@ -27,7 +30,7 @@ features:
   - title: Latest changes
     icon:
       src: /homepage/new_features.png
-    details: "In der letzten Iteration wurde das Projekt erstmals auf GitHub initialisiert und die Dokumentation erstellt."
+    details: "Die Game Design Documentation wurde initial erstellt."
     link: /homepage/change_history
   - title: Current work in progress
     icon:
