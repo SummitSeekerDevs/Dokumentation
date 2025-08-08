@@ -35,5 +35,5 @@ features:
   - title: Current work in progress
     icon:
       src: /homepage/wip.png
-    details: "Aktuell wird die Dokumentation noch weiter ausgebaut und es findet das lokale Projektsetup der Entwickler statt."
+    details: "Aktuell wird die Dokumentation noch weiter ausgebaut und es wird das MVP entwickelt."
 ---
