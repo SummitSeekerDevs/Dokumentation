@@ -9,8 +9,7 @@ import GddDownloadBtn from '../components/GddDownloadBtn.vue'
 export default {
     extends: DefaultTheme,
     enhanceApp({app}) {
-        const vuetifyInstance = vuetify;
-        app.use(vuetifyInstance);
+        app.use(vuetify);
 
         app.component("gddDownloadBtn", GddDownloadBtn);
     },
