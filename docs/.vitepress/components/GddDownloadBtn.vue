@@ -1,11 +1,12 @@
 <template>
   <v-btn
-      class="ma-2 text-black text-decoration-none"
+      class="text-black text-decoration-none"
       append-icon="$download"
       stacked
       :href="fileLink"
       download
       color="grey-lighten-4"
+      min-width="750"
   >
     Download Game Design Documentation
   </v-btn>
