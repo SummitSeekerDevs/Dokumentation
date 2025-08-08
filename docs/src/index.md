@@ -11,14 +11,14 @@ hero:
       link: /homepage/faq/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/orgs/SummitSeekerDevs/repositories    
+      link: https://github.com/orgs/SummitSeekerDevs/repositories
     - theme: alt
       text: GDD
       link: /about/
 
 features:
   - title: Getting Started as a Player
-    icon: 
+    icon:
       src: /homepage/rocket.png
     details: "JETZT SPIELEN!"
     link: /player/getting_started/
@@ -31,7 +31,7 @@ features:
     icon:
       src: /homepage/new_features.png
     details: "Die Game Design Documentation wurde initial erstellt."
-    link: /homepage/change_history
+    link: /homepage/change_history/
   - title: Current work in progress
     icon:
       src: /homepage/wip.png
