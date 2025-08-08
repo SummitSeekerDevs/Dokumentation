@@ -31,3 +31,7 @@ die höchste Plattform zu erreichen. Es soll zwei verschiedene Modi geben:
 Die Spielwelt gestaltet sich in einem Low-Poly Grafikstil, wobei jedes Level / jede Ebene durch ein anderes Thema führt.
 Das HUD wird minimal gehalten - es gibt keinen Gesundheitsstatus, aber du siehst immer deine aktuelle Höhe und
 bereits erreichte Highscores.
+
+## 📃 Game Design Document
+
+<gdd-download-btn />
