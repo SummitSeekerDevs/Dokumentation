@@ -18,6 +18,11 @@ export default {
     head: [['link', { rel: 'icon', href: 'favicon.ico' }]], // favicon logo
     base: BASE_PATH,
     srcDir: 'src', //markdown files are located in that directory
+    vite: {
+        ssr: {
+            noExternal: ["vuetify"],
+        },
+    },
 
     themeConfig: {
         // Navigation Bar
