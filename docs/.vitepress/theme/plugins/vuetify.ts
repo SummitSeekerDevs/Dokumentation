@@ -15,14 +15,6 @@ export default createVuetify({
             mdi,
         },
     },
-    theme: {
-        themes: {
-            light: {
-                colors: {
-                    primary: "#546e7a",
-                },
-            },
-        },
-    },
+    theme: {},
     defaults: {},
 });
