@@ -16,6 +16,6 @@
 import {VBtn} from "vuetify/components";
 
 // import.meta.env.BASE_URL needed to locate file because baseUrl has been changed in config.js
-const fileLink = `${import.meta.env.BASE_URL}files/game_design_doc_v1.pdf`;
+const fileLink = `${import.meta.env.BASE_URL}files/summitseeker_game_design_doc_v__0_1.pdf`;
 </script>
 
