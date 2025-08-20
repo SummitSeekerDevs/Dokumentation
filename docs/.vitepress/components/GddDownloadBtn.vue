@@ -5,7 +5,6 @@
       stacked
       :href="fileLink"
       download="SummitSeeker_GDD_v0.1.pdf"
-      min-width="750"
   >
     Game Design Documentation herunterladen
   </v-btn>
