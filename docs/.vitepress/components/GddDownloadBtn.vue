@@ -4,7 +4,7 @@
       append-icon="$download"
       stacked
       :href="fileLink"
-      download="SummitSeeker_GDD_v0.1.pdf"
+      download
   >
     Game Design Documentation herunterladen
   </v-btn>
