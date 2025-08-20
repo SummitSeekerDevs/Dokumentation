@@ -8,7 +8,7 @@
       color="grey-lighten-4"
       min-width="750"
   >
-    Download Game Design Documentation
+    Game Design Documentation herunterladen
   </v-btn>
 </template>
 
