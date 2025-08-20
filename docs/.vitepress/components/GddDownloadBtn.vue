@@ -4,7 +4,7 @@
       append-icon="$download"
       stacked
       :href="fileLink"
-      download
+      download="SummitSeeker_GDD_v0.1.pdf"
       color="grey-lighten-4"
       min-width="750"
   >
