@@ -13,7 +13,7 @@ hero:
       text: View on GitHub
       link: https://github.com/orgs/SummitSeekerDevs/repositories
     - theme: alt
-      text: GDD
+      text: Game Design Documentation
       link: /about/
 
 features:
