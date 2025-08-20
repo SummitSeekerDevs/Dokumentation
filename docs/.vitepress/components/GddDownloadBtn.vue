@@ -1,11 +1,10 @@
 <template>
   <v-btn
-      class="text-black text-decoration-none"
+      class="text-black text-decoration-none bg-grey-lighten-4"
       append-icon="$download"
       stacked
       :href="fileLink"
       download="SummitSeeker_GDD_v0.1.pdf"
-      color="grey-lighten-4"
       min-width="750"
   >
     Game Design Documentation herunterladen
