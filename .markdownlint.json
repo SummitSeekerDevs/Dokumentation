@@ -67,7 +67,8 @@
   },
   "no-inline-html": {
     "allowed_elements": [
-      "Badge"
+      "Badge",
+      "gdd-download-btn"
     ]
   }
 }

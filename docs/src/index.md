@@ -12,10 +12,13 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/orgs/SummitSeekerDevs/repositories
+    - theme: alt
+      text: Game Design Documentation
+      link: /about/
 
 features:
   - title: Getting Started as a Player
-    icon: 
+    icon:
       src: /homepage/rocket.png
     details: "JETZT SPIELEN!"
     link: /player/getting_started/
@@ -27,10 +30,10 @@ features:
   - title: Latest changes
     icon:
       src: /homepage/new_features.png
-    details: "In der letzten Iteration wurde die Getting Started Seite für Entwickler erstellt."
+    details: "Die Game Design Documentation wurde initial erstellt."
     link: /homepage/change_history/
   - title: Current work in progress
     icon:
       src: /homepage/wip.png
-    details: "Aktuell wird die Dokumentation noch weiter ausgebaut und es findet das lokale Projektsetup der Entwickler statt."
+    details: "Aktuell wird die Dokumentation noch weiter ausgebaut und es wird das MVP entwickelt."
 ---
